@@ -1,4 +1,4 @@
-<h1>STIGS Vulnerability Remediations</h1>
+<h1>STIG Vulnerability Remediations</h1>
 <p class="subtitle">Windows 11 STIG remediation scripts prepared for GitHub documentation.</p>
 
 <div class="section">
